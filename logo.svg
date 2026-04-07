@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Aion minimal mark: top half circle + stylized V
+       Left stroke is shorter and angled like a clock hand ~11:10 (hour hand direction). -->
+  <g stroke="#1bb7a5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Top half circle -->
+    <path d="M30 45 A30 35 0 0 1 80 45" />
+
+    <!-- V (apex at bottom). Left stroke shorter, pointing ~11:10 -->
+    <path d="M38 56 L50 78 L70 48" />
+  </g>
+  
+</svg>
